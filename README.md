@@ -16,7 +16,7 @@ Advanced money handling system with physical cash drops and currency exchange fe
 - **Optimized** - 0ms idle consumption
 
 ## 📦 Installation
-1. Add to `resources/[standalone]`
+1. Add to `resources/[yourfolder]`
 2. Add to server.cfg:
 ```lua
 ensure universal-money
