@@ -46,7 +46,7 @@ qb-input
 ### Key Changes Made:
 1. **Full English Translation**:
    - All config options
-   - Command names (`/prachy` → `/cash`)
+   - Command names (`/cash`)
    - Notification messages
    - Complete locale file
 
