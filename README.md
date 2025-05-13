@@ -1,3 +1,6 @@
+
+![Bez názvu-1](https://github.com/user-attachments/assets/25f62cce-dc02-4d39-95e4-06596fa0b2ef)
+
 # 💵 Universal Money System for QB-Core
 
 [![License](https://img.shields.io/github/license/yourname/universal-money?color=blue)](LICENSE)
