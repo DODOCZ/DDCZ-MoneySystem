@@ -1,0 +1,9 @@
+{
+    "money_thrown": "You threw %s$ on the ground!",
+    "money_picked": "You picked up %s$!",
+    "not_enough_money": "Not enough money!",
+    "all_money_thrown": "You dropped all your money (%s$)!",
+    "no_money_to_drop": "No money to drop!",
+    "confirm_drop_all": "Really drop ALL cash? Type /cashall again to confirm!",
+    "exchange_success": "Exchanged %s$ %s → %s$ %s"
+}
