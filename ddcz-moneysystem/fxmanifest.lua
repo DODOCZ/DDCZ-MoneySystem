@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'YourName'
+author 'DDCZ'
 description 'Money System using interact resource'
 
 shared_scripts {
